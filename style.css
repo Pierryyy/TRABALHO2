@@ -1,0 +1,37 @@
+p {
+    color: red;
+}
+.a1 {
+    color: blue;
+}
+.cor2 {
+    background: green;
+}
+body {
+    background: #999999;
+    background-image: url(img/ednaldo.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: top;
+}
+h1 {
+    background: yellow;
+}
+h2 {
+    height: 150px;
+    text-align: center;
+}
+.cor1 {
+    height: 100px;
+    width: 200px;
+    margin: auto;
+}
+a {
+    text-decoration: none;
+}
+h3 {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    text-align: center;
+}
